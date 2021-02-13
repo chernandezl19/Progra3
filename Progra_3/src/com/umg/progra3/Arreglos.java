@@ -1,7 +1,5 @@
 package com.umg.progra3;
 
-import java.util.concurrent.ForkJoinTask;
-
 public class Arreglos {
 	
 	static int[] intArray;
